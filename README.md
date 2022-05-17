@@ -1,1 +1,5 @@
-# 42
+- 👋 Hi, My name is Dave Holbert @dcholbert
+- 👀 Always wondering if the real answer to life is 42!!!
+- [![42](https://i.ytimg.com/an_webp/aboZctrHfK8/mqdefault_6s.webp?du=3000&sqp=CL6Vi5QG&rs=AOn4CLCoPuP3QhxVOVtwr-Wf14ttgyruZg)](https://youtu.be/tK0urw144cU?t=30)
+- 🌱 I’m currently learning how to further my education in coding with C#....
+- 📫 You can reach me at my eamil <a href="mailto:dholbert77@gmail.com">@dcholbert</a>
